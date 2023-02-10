@@ -1,6 +1,5 @@
 # Things to learn and investigate
-
--   🎧: [brown noise](https://www.youtube.com/watch?v=RqzGzwTY-6w) and [rainymood](https://rainymood.com/)
+- [Fly.io](https://fly.io/) and moving stuff from Heroku
 
 ---
 # 📅 10.02.2023 windows: ports: How to kill processes that block ports on Windows?
