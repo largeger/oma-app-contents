@@ -12,3 +12,10 @@ After installation I need the following command (run in the root-dir of my proje
 ````
 reveal-md . --separator "\n---slide---" --vertical-separator "\n---vert---" -w
 ````
+
+# 📅 21.02.2023 revealjs: locating ressources relative - not absolute
+When using reveal.js together with external ressources (images) in subfolders, it is strongly recommended to add these ressources with relative locations within your markdown files - absolute paths will lead to problems when using reveal-md, because reveal-md will start to look for the ressources in some probably different subfolder.
+Example markdown:
+````
+![junit-setup1](images/junit-import1.png)
+````
