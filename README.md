@@ -19,3 +19,9 @@ Example markdown:
 ````
 ![junit-setup1](images/junit-import1.png)
 ````
+
+# 📅 09.03.2023 IntelliJ: Validating RegEx in IntelliJ
+1. set the cursor to some regex in the code
+2. hit Alt + Enter
+3. select "Check RegExp"
+4. Enjoy :-)
