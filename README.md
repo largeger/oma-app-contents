@@ -25,3 +25,10 @@ Example markdown:
 2. hit Alt + Enter
 3. select "Check RegExp"
 4. Enjoy :-)
+
+# 📅 13.04.2023 team: Q&A Warmup - the question chain
+for a warm-up session at the start of a training day the following method was quite successfull for me:
+1. set a timer for two minutes and let every student note down some questions  
+2. start be naming one student and ask a question
+3. after the answer, this student will name the next one to anwer and ask one of his / her questions
+4. do this until everybody has had his / her turn
